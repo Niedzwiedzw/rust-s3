@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["awscreds"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.63.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"awscreds/struct.Rfc3339OffsetDateTime.html\" title=\"struct awscreds::Rfc3339OffsetDateTime\">Rfc3339OffsetDateTime</a>","synthetic":false,"types":["awscreds::credentials::Rfc3339OffsetDateTime"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

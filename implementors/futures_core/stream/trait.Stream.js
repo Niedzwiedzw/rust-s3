@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["s3"] = [{"text":"impl Stream for <a class=\"struct\" href=\"s3/request/struct.GetObjectStream.html\" title=\"struct s3::request::GetObjectStream\">GetObjectStream</a>","synthetic":false,"types":["s3::request::GetObjectStream"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
